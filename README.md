@@ -1,5 +1,5 @@
 # BI-reports
-Dashboards and reports created in PowerBI. 
+Dashboards and reports created in PowerBI
 -   From idea to visual.
-    finance.
-    BILLIONS
+-   finance
+-   BILLIONS
